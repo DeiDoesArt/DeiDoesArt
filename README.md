@@ -3,7 +3,7 @@ Hello !! My name is Deidoesart but you can call me Dei or Dea | eng . tag | mino
 
 <img width="150" height="20" alt="image" src="https://pixelsafari.neocities.org/blinkies/web/manytabs.gif"/> <img width="150" height="20" alt="image" src="https://github.com/user-attachments/assets/71c1ba4e-620c-4508-b331-e8a414a360dd" /> <img width="150" height="20" alt="image" src="https://pixelsafari.neocities.org/blinkies/artist.gif"/>
 
-![](https://komarev.com/ghpvc/?username=DeiDoesArt)
+![](https://komarev.com/ghpvc/?username=DeiDoesArt&color=f1b04c)
 
 https://deisponypage.straw.page. is my strawpage 4 Ponytown !! (check it 4 more info)
 
