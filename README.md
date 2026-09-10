@@ -1,4 +1,7 @@
 <p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=514EB3&width=435&lines=%22+%F0%9D%99%B0%F0%9D%9A%97%F0%9D%9A%8D+%F0%9D%9A%98%F0%9D%9A%91.+.+.+.;%F0%9D%9A%A0%F0%9D%9A%91%F0%9D%9A%8A%F0%9D%9A%9D+%F0%9D%9A%8A+%F0%9D%9A%8B%F0%9D%9A%8E%F0%9D%9A%8A%F0%9D%9A%9E%F0%9D%9A%9D%F0%9D%9A%92%F0%9D%9A%8F%F0%9D%9A%9E%F0%9D%9A%95+%F0%9D%9A%8C%F0%9D%9A%9B%F0%9D%9A%8E%F0%9D%9A%8A%F0%9D%9A%9D%F0%9D%9A%9E%F0%9D%9A%9B%F0%9D%9A%8E!+%22" alt="Typing SVG" /></a>
+
+<p align="center">
 <img width="2901" alt="1256" src="https://github.com/user-attachments/assets/fdf49abb-9d6b-4f37-bdde-8b4ce12ae655" />
 
 <p align="center">
