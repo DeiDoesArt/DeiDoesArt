@@ -1,4 +1,7 @@
 <p align="center">
+<img width="2901" alt="1256" src="https://github.com/user-attachments/assets/fdf49abb-9d6b-4f37-bdde-8b4ce12ae655" />
+
+<p align="center">
 <img src="https://dividers.crd.co/assets/images/gallery09/49afd18b.png?v=05d33f91"/>
 
 <p align="center">
@@ -12,10 +15,3 @@ ${\textsf{\color{#645dc3}int, c+h enc! (𝘰𝘳: 𝘸2𝘪, 𝘥𝘯𝘪𝘶�
 
 <p align="center">
 <img src="https://dividers.crd.co/assets/images/gallery09/49afd18b.png?v=05d33f91"/>
-
-
-<p align="center">
-<img width="2901" alt="1256" src="https://github.com/user-attachments/assets/fdf49abb-9d6b-4f37-bdde-8b4ce12ae655" />
-
-<p align="center">
-<img src="https://dividers.crd.co/assets/images/gallery04/78888657.png?v=05d33f91"/>
