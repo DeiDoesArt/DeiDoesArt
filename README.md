@@ -1,5 +1,5 @@
 <p align="center">
-${\textsf{\color{#AC3519FF}𝘢𝘭𝘸𝘢𝘺𝘴 𝘴𝘦𝘮𝘪-𝘰𝘧𝘧𝘵𝘢𝘣 𝘢𝘯𝘥 𝘋𝘕𝘊}}$
+${\textsf{\color{#AC3519FF}𝘢𝘭𝘸𝘢𝘺𝘴 𝘴𝘦𝘮𝘪-𝘰𝘧𝘧𝘵𝘢𝘣 𝘢𝘯𝘥 𝘋𝘕𝘊  }}$
 ${\textsf{\color{#CF5746FF}𝘔𝘶𝘭𝘵𝘪𝘧𝘢𝘯𝘥𝘰𝘮 !!}}$
 ${\textsf{\color{#E4957AFF}int, c+h enc! (𝘰𝘳: 𝘸2𝘪, 𝘥𝘯𝘪𝘶𝘧)}}$
 ${\textsf{\color{#E4A671FF}૮₍ ´ ꒳ `₎ა}}$
