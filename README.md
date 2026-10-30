@@ -1,21 +1,4 @@
-<p align="center">
-<img width="320" alt="3645" src="https://64.media.tumblr.com/f41bfb9ea4e317702aadd52070efea8b/2ecbc332a0b9987a-71/s2048x3072/3d91abc75c8e9ce6c6e3b5a9148b9feeb3e00891.gifv" />
 
-
-<p align="center">
-${\textsf{\color{#AC3519FF}𝘢𝘭𝘸𝘢𝘺𝘴 𝘴𝘦𝘮𝘪-𝘰𝘧𝘧𝘵𝘢𝘣 𝘢𝘯𝘥 𝘋𝘕𝘊}}$
-
-<p align="center">
-${\textsf{\color{#CF5746FF}𝘔𝘶𝘭𝘵𝘪𝘧𝘢𝘯𝘥𝘰𝘮 !!}}$
-
-<p align="center">
-${\textsf{\color{#E4957AFF}int, c+h enc! (𝘰𝘳: 𝘸2𝘪, 𝘥𝘯𝘪𝘶𝘧)}}$
-        
-<p align="center">
-${\textsf{\color{#E4A671FF}૮₍ ´ ꒳ `₎ა}}$
-
-<p align="center">
-<img width="300" alt="3645" src="https://64.media.tumblr.com/26c1ee5aabeb07a610c12ffb8affe18f/2ecbc332a0b9987a-80/s2048x3072/c940281dd3b19db18ba91417f0f75ee895167fc4.gifv" />
 
 <p align="center">
 <img width="1497" alt="3645" src="https://github.com/user-attachments/assets/40ab7da3-b44d-4819-8a85-3729ba9759c5" />
